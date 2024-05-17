@@ -43,7 +43,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=haedanui&theme=react-dark&bg_color=00000000&hide_border=true&line=000&color=000" width=94%/>
 </a>
 
-<img src="https://github.com/haedanui/haedanui/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/haedanui/haedanui/blob/output/github-snake.svg" width="100%">
 
 
 </div>
