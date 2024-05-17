@@ -31,16 +31,16 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongMirror&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haedanui&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=DongMirror&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=haedanui&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DongMirror&theme=react-dark&bg_color=00000000&hide_border=true&line=000&color=000" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haedanui&theme=react-dark&bg_color=00000000&hide_border=true&line=000&color=000" width=94%/>
 </a>
 
 <img src="https://github.com/DongMirror/DongMirror/blob/output/github-snake-dark.svg" width="100%">
