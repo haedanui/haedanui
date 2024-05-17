@@ -51,7 +51,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haedanui" alt="haedanui" /></a>
 
 
-<img src="https://github.com/haedanui/haedanui/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/haedanui/haedanui/blob/output/github-snake.svg" width="100%">
 
 </div>
 
